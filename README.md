@@ -23,7 +23,7 @@
 
 # 🧱 2.Архитектура решения
 
-![Архитектурная схема](/users/sergeygusarov/brief-agent/.files/architecture.png =x329)
+<img src="architecture.png" alt="Архитектурная схема">
 
 Описание элементов схемы:
 
